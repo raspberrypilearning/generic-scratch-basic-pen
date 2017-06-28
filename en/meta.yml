@@ -1,12 +1,12 @@
-title: generic-scratch-basic-pen
+title: Basic drawing in Scratch
 hero_image: images/banner.png
-description: generic-scratch-basic-pen description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Lifting the up and downn to draw in Scratch
+original_url: 
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
-ingredient: false
-interests: "games, photography, physical computing"
-technologies: "electronics, physical computing, python, scratch"
+ingredient: true
+interests: 
+technologies: "scratch"
 steps:
-  - title: Step one
+  - title: Using the pen
