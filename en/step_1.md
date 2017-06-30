@@ -1,6 +1,6 @@
-You can use the **Pen** in Scratch to draw on he **Stage**.
+You can use the **Pen** in Scratch to draw on the Stage.
 
-- With your sprite selected, click on the **Pen** menu in the Scripts Palette.
+- With your sprite selected, click on the **Pen** menu in the **Scripts** palette.
 
 	![pen menu](images/pen-menu.png)
 	
@@ -8,11 +8,11 @@ You can use the **Pen** in Scratch to draw on he **Stage**.
 
 	![clear](images/clear.png)
 	
-- Then you can make the pen go down to start drawing
+- Then you can make the pen go down to start drawing.
 
 	![pen down](images/pen-down.png)
 	
-- When you move your sprite, it will draw on the **Stage**
+- When you move your sprite, it will draw on the Stage.
 
 	![move sprite](images/forward.png)
 	
